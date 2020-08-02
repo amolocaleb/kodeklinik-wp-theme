@@ -1,0 +1,32 @@
+
+.page-id-12 .app-header {
+  background-image: linear-gradient(
+      #00000066, #0000009c
+    ),url('http://wp/wp-content/uploads/2020/08/banner.jpg') ;
+}
+
+.page-id-1895 .app-header {
+  background-image: linear-gradient(
+      #00000066, #0000009c
+    ),url('http://wp/wp-content/uploads/2020/08/ux-banner.jpg') ;
+}
+.page-id-1900 .app-header {
+  background-image: linear-gradient(
+      #00000066, #0000009c
+    ),url('http://wp/wp-content/uploads/2020/08/careers-banner.jpg') ;
+}
+.app-header {
+    background-color: #282c34;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 4vmin);
+    color: white;
+    
+  }
